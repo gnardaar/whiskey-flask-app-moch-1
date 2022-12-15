@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\Andrew Krause\Documents\myRepos\not done\whiskey-app-flask\whiskey-flask-app-moch-1\venv"
+VIRTUAL_ENV="C:\Users\Andrew Krause\whiskey-flask-app-moch-1-1\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
